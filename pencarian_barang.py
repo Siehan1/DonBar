@@ -1,4 +1,4 @@
-daftar_barang = ["Buku", "Pensil", "Bolpoin", "Penghapus"]
+daftar_barang = []
 
 def cari_barang(nama_barang_dicari):
     ditemukan = False
