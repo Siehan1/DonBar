@@ -1,0 +1,10 @@
+id User,Nama Lengkap,Username,Password,Alamat,No Hp,Role,Poin
+1,Alice in Bonderland,Alice,password1,,81234567890,Pendonasi,50
+2,Bob Marley,Bob,password2,,85612345678,Penerima,50
+3,Charlie Caplin,Charlie,password3,,87798765432,Penerima,50
+4,nama saya,nama,sandi,,89956781234,Pendonasi,50
+5,ucup suroto,ucup,ucup123,Ciracas,82187654321,Pendonasi,50
+6,bambang kompang,bambang,ps123,Cibiru,0,Penerima,50
+7,Asep,asep,asep,Cirebon,0,Penerima,50
+8,ppp,ppp,ppp,,2,Penerima,50
+9,Naila,nailamelany11,123,,0812345678,Pendonasi,50
